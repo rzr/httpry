@@ -2,3 +2,9 @@ httpry
 callgrind.log
 massif.log
 gmon.out
+debian/files
+debian/*.log
+debian/*.substvars
+debian/*/*
+packaging/*/*
+*~
